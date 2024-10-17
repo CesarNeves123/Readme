@@ -1,17 +1,14 @@
 ### Olá.. Sejam bem-vindos. Eu sou Fábio Corsini.
 
-- 🔭 I’m currently working on Python, Computer Network and Containers
-- 🌱 I’m currently learning Cloud Computing and containers
+- 🔭 I’m currently working on C#, C.
+- 🌱 I’m currently learning Information system on IF Sul De Minas
 - 👯 I’m looking to collaborate on Network Projects
 - 💬 Ask me about Computer Network 
-- 📫 How to reach me: fscorsini@gmail.com
+- 📫 How to reach me: cesartoledoneves26@gmail.com
 
 
 - #### Here some of the technologies I'm currently working with:
 
-<div>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=fscorsini&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=fscorsini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
   
 ![Snake animation](https://github.com/fscorsini/fscorsini/blob/output/github-contribution-grid-snake-dark.svg)
