@@ -7,7 +7,7 @@
 - 📫 How to reach me: cesartoledoneves26@gmail.com
 
 
-- #### Here some of the technologies I'm currently working with:
+
 
 
   
